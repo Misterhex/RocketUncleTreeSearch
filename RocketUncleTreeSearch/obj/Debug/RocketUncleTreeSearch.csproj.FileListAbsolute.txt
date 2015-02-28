@@ -1,0 +1,6 @@
+\\psf\home\documents\visual studio 2013\Projects\RocketUncleTreeSearch\RocketUncleTreeSearch\bin\Debug\RocketUncleTreeSearch.exe.config
+\\psf\home\documents\visual studio 2013\Projects\RocketUncleTreeSearch\RocketUncleTreeSearch\bin\Debug\RocketUncleTreeSearch.exe
+\\psf\home\documents\visual studio 2013\Projects\RocketUncleTreeSearch\RocketUncleTreeSearch\bin\Debug\RocketUncleTreeSearch.pdb
+\\psf\home\documents\visual studio 2013\Projects\RocketUncleTreeSearch\RocketUncleTreeSearch\bin\Debug\FizzWare.NBuilder.dll
+\\psf\home\documents\visual studio 2013\Projects\RocketUncleTreeSearch\RocketUncleTreeSearch\obj\Debug\RocketUncleTreeSearch.exe
+\\psf\home\documents\visual studio 2013\Projects\RocketUncleTreeSearch\RocketUncleTreeSearch\obj\Debug\RocketUncleTreeSearch.pdb
