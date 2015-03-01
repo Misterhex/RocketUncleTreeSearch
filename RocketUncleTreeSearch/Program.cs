@@ -21,7 +21,6 @@ namespace RocketUncleTreeSearch
                 "total number of fruits on this branch is {0}", branchWithMostFruits.Item2);
 
             // return the color of any of the first fruits you find on the tree (start from left) 
-
             var strFormat = "\nThe color of the first fruits found on the tree (start from left) is {0}";
             Console.WriteLine(strFormat, DummyData.GetDummyFruitTree2().GetLeftMostFruit().Color);
 
