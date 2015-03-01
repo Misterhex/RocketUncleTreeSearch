@@ -11,8 +11,5 @@ namespace RocketUncleTreeSearch
         public IEnumerable<IFruit> Fruits { get; set; }
 
         public IEnumerable<Branch> ChildBranches { get; set; }
-
-        public string Label { get; set; }
     }
-
 }
