@@ -10,7 +10,7 @@ namespace RocketUncleTreeSearch
             var oranges = DummyData.GetDummyFruitTree().CountFruit<Orange>();
             Console.WriteLine("{0} total oranges...", oranges);
 
-            // count number of fruits.
+            // count number of apples.
             var apple = DummyData.GetDummyFruitTree().CountFruit<Apple>();
             Console.WriteLine("\n{0} total apple...", apple);
             
